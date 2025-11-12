@@ -35,4 +35,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add ChangeLog.md
           git commit -m "docs(changelog): update ChangeLog in Auto Changelog"
-          git push
+          git push origin main
