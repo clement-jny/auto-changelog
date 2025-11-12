@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Ignore changelog message
 
+### Fixed
+
+- *(changelog)* Remove unreleased section link from footer template
+- *(workflow)* Restrict tag pattern to version tags in release workflow
+
 ### Other
 
 - *(other)* Update
@@ -24,4 +29,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - *(other)* Create ChangeLog.md
 - *(other)* Create release.yml
 - *(other)* Initial commit
+
 
