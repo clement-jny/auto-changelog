@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Fixed
 
+- *(a)* Update content in file a
 - *(changelog)* Remove
 - *(changelog)* Update changelog entries for fixes and improvements
 - *(changelog)* Remove unreleased section link from footer template
