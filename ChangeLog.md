@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Fixed
 
+- *(changelog)* Update changelog entries for fixes and improvements
 - *(changelog)* Remove unreleased section link from footer template
 - *(workflow)* Restrict tag pattern to version tags in release workflow
 
